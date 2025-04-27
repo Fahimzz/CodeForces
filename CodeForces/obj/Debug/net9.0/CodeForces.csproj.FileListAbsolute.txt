@@ -1,0 +1,14 @@
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/bin/Debug/net9.0/CodeForces
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/bin/Debug/net9.0/CodeForces.deps.json
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/bin/Debug/net9.0/CodeForces.runtimeconfig.json
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/bin/Debug/net9.0/CodeForces.dll
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/bin/Debug/net9.0/CodeForces.pdb
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.AssemblyInfoInputs.cache
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.AssemblyInfo.cs
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.csproj.CoreCompileInputs.cache
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.dll
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/refint/CodeForces.dll
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.pdb
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/CodeForces.genruntimeconfig.cache
+/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/Debug/net9.0/ref/CodeForces.dll
