@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shahariarimtiazfahim/NetCore/CodeForcesA/CodeForces/CodeForces.csproj",
+      "projectUniqueName": "/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/CodeForces.csproj",
       "projectName": "CodeForces",
-      "projectPath": "/Users/shahariarimtiazfahim/NetCore/CodeForcesA/CodeForces/CodeForces.csproj",
+      "projectPath": "/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/CodeForces.csproj",
       "packagesPath": "/Users/shahariarimtiazfahim/.nuget/packages/",
-      "outputPath": "/Users/shahariarimtiazfahim/NetCore/CodeForcesA/CodeForces/obj/",
+      "outputPath": "/Users/shahariarimtiazfahim/NetCore/CodeForces/CodeForces/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shahariarimtiazfahim/.nuget/NuGet/NuGet.Config"
