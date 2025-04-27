@@ -1,41 +1,7 @@
 ﻿
 public class Program
 {
-    public int count = 0;
-    public int NumberOfStep(int n)
-    {
-        if (n == 0)
-            return count;
 
-        if (n >= 5)
-        {
-            count++;
-            return NumberOfStep(n - 5);
-        }
-        else if (n >= 4)
-        {
-            count++;
-            return NumberOfStep(n - 4);
-        }
-        else if (n >= 3)
-        {
-            count++;
-            return NumberOfStep(n - 3);
-        }
-        else if (n >= 2)
-        {
-            count++;
-            return NumberOfStep(n - 2);
-        }
-        else if (n >= 1)
-        {
-            count++;
-            return NumberOfStep(n - 1);
-        }
-
-        return count;
-
-    }
 
     static void Main(string[] args)
     {
@@ -46,10 +12,34 @@ public class Program
             return;
 
         }
-        int num = int.Parse(n);
-        Program program = new Program();
-        int result = program.NumberOfStep(num);
-        Console.WriteLine(result);
+        string[] arr = n.Split(' ');
+        if (arr.Length != 3)
+        {
+            Console.WriteLine("Invalid input");
+            return;
+        }
+        int costOfBananna = int.Parse(arr[0]);
+        int soldierDollar = int.Parse(arr[1]);
+        int numberOfBananna = int.Parse(arr[2]);
+        if (costOfBananna < 0 || soldierDollar < 0 || numberOfBananna < 0)
+        {
+            Console.WriteLine("Invalid input");
+            return;
+        }
+        int priceOfBananna = 0;
+        for (int i = 1; i <= numberOfBananna; i++)
+        {
+            priceOfBananna += i * costOfBananna;
+        }
+        if (priceOfBananna > soldierDollar)
+        {
+            Console.WriteLine(priceOfBananna - soldierDollar);
+        }
+        else
+        {
+            Console.WriteLine(0);
+        }
+
     }
 }
 

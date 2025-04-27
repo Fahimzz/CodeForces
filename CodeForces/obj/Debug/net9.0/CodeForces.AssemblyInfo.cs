@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeForces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+526bc9c0973b8404970f2265eb4677eafe1ee464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72668b4199e711422bd0fa39ec8cbedc55c68105")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeForces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeForces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
